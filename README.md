@@ -15,6 +15,8 @@ This Weather App is a simple web application that allows users to check the curr
 - **JavaScript**: For fetching data from the API and updating the UI dynamically.
 - **Weather API**: Used to get real-time weather data.
 
+- you can view the app here= https://weather-app-omega-eight-57.vercel.app/
+
 ## API
 - This project uses the OpenWeatherMap API to fetch weather data. You will need to sign up for an API key from OpenWeatherMap and replace the placeholder key in the script.js file with your own API key.
 
