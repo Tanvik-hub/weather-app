@@ -14,7 +14,7 @@ This Weather App is a simple web application that allows users to check the curr
 - **CSS**: For styling the app.
 - **JavaScript**: For fetching data from the API and updating the UI dynamically.
 - **Weather API**: Used to get real-time weather data.
-
+## Link
 - you can view the app here= https://weather-app-omega-eight-57.vercel.app/
 
 ## API
