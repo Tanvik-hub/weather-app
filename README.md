@@ -1,4 +1,4 @@
-# Weather App
+# Weather App🌧🌤☀
 
 This Weather App is a simple web application that allows users to check the current weather conditions for any city. The app is built using HTML, CSS, and JavaScript, and it fetches weather data from a public API.
 
