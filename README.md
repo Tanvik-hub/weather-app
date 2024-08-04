@@ -21,7 +21,5 @@ This Weather App is a simple web application that allows users to check the curr
 ## API
 - This project uses the OpenWeatherMap API to fetch weather data. You will need to sign up for an API key from OpenWeatherMap and replace the placeholder key in the script.js file with your own API key.
 
-## License
-- This project is licensed under the MIT License.
 
 
